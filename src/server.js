@@ -29,7 +29,9 @@ const allowedOrigins = [
   'https://g.workbrink.com',
   'https://g.senew-tech.com',
   'https://new-goal-plum.vercel.app/',
-  'https://new-goal-plum.vercel.app'
+  'https://new-goal-plum.vercel.app',
+  'https://goalshots.com/',
+  'https://goalshots.com',
 ];
 
 const corsOptions = {
